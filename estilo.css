@@ -83,3 +83,12 @@ body {
   margin-bottom: 5px;
   color: rgb(100, 100, 100);
 }
+
+.card h2 {
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
+
+.card p {
+  padding-bottom: 10px;
+}
